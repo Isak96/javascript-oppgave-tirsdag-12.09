@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body div button {
+    background-color: orange;
+    border: 5px;
+    border-radius: 10px;
+    border-style: solid;
+}
